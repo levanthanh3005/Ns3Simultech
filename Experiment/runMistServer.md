@@ -43,5 +43,5 @@ Now, go to **Ns3-Main-Command-Tab**:
 
 `python3 ./waf --run test --vis --verbose`
 
-
-
+Now, lets watch video, open your browser and then access: `localhost:5800`, it will open firefox browser inside docker, in firefox, lets access:
+`10.81.0.8/yourvideofile`
